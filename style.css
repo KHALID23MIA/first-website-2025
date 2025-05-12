@@ -20,6 +20,9 @@ p {
     border-radius: 5px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
     padding: 20px;
+    background-image: linear-gradient(to right, #ecf0f1, #4ab17dd3);
+
+
 }
 
 span {
